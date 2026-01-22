@@ -1438,7 +1438,7 @@
                                 p599: "12px 5px",
                                 w: "250px",
                                 b: "1px solid #730138",
-                                onClick: () => window.open("https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon"),
+                                onClick: () => window.open("https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xba5d1a3523cf1fa29ebe985c58de1c9c9ee86fdf"),
                                 children: [
                                   (0, i.jsx)(g.default, {
                                     src: "/uniswap.png",
